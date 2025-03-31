@@ -1,0 +1,37 @@
+# Large data files
+train_data_chatbot.csv
+validation_data_chatbot.csv
+train_data_chatbot_formatted.csv
+validation_data_chatbot_formatted.csv
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.env/
+.venv/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Logs
+*.log 
